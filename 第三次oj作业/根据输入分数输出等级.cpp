@@ -4,7 +4,7 @@ using namespace std;
 int main(){
     int a;
     cin >> a;
-    // ¶ÔÓÚÊäÈëµÄ·ÖÊı£¬ÓÃif , else if ,else À´´¦Àí²»Í¬µÈ¼¶µÄÇé¿ö¡£
+    // å¯¹äºè¾“å…¥çš„åˆ†æ•°ï¼Œç”¨if , else if ,else æ¥å¤„ç†ä¸åŒç­‰çº§çš„æƒ…å†µã€‚
     if(a >=90){
         cout << "A";
     }else if(a >= 80){

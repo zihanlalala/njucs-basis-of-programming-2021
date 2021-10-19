@@ -3,8 +3,8 @@ using namespace std;
 int main(){
     int a, sum;
     sum = 0;
-    // 数列求和
-    //我们不需要用数组保留所有输入的数， 只需要记录求和的结果
+    // 鏁板垪姹傚拰
+    //鎴戜滑涓嶉渶瑕佺敤鏁扮粍淇濈暀鎵�鏈夎緭鍏ョ殑鏁帮紝 鍙渶瑕佽褰曟眰鍜岀殑缁撴灉
     while(cin >> a){
         sum += a;
     }
