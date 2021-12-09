@@ -26,7 +26,7 @@ int main()
         ++p_ret;
     }
 
-
+    // 当有一个数组结束时，把另一个数组拼到后面
     if (p1 < len_str1)
     {
         for (int i = p1; i < len_str1; i++)
